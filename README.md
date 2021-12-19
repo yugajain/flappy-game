@@ -1,2 +1,2 @@
 # flappy-game
-#Press space to start
+Press space to start
